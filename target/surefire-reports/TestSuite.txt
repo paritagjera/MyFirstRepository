@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 0.482 sec <<< FAILURE! - in TestSuite
+creatuser(practicetests.Testing3)  Time elapsed: 0.016 sec  <<< FAILURE!
+java.lang.AssertionError: verify element expected [true] but found [false]
+	at practicetests.Testing3.creatuser(Testing3.java:14)
+
